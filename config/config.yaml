@@ -1,0 +1,7 @@
+dir: "H:/file-test"
+save_dir: "H:/new-file-test"
+
+exclude_list:
+  - "H:/file-test/c"
+  - "H:/file-test/d"
+  - "H:/file-test/a/a1.txt"
